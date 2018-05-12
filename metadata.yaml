@@ -1,0 +1,29 @@
+_repo: The-Brand-of-SilenceA-Detective-Story_21891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strong, Harrington
+    birthdate: 1883
+    deathdate: 1958
+    gutenberg_agent_id: '24954'
+    url: http://www.gutenberg.org/2009/agents/24954
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: 'The Brand of Silence
+
+  A Detective Story'
+url: http://www.gutenberg.org/ebooks/21891
